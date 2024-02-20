@@ -5,7 +5,7 @@ export default function Skills() {
   return (
     <main className={styles.main}>
       <Navbar />
-      Skills
+      Coming Soon!
     </main>
   );
 }

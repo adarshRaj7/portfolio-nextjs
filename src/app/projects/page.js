@@ -5,7 +5,7 @@ export default function Projects() {
   return (
     <main className={styles.main}>
       <Navbar />
-      Projects
+      Coming Soon!
     </main>
   );
 }
